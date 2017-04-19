@@ -1,0 +1,56 @@
+<svg height="846" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="846" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 23:24:38 +0000   819979 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 23:24:38 +0000     7131 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 23:24:38 +0000     8338 bytes  app/index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 23:24:38 +0000      314 bytes  app/templates/_bower.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 23:24:38 +0000      728 bytes  app/templates/_config.xml</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 23:24:38 +0000     9846 bytes  app/templates/_gulpfile.browserify.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 23:24:38 +0000     8827 bytes  app/templates/_gulpfile.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 23:24:38 +0000     1598 bytes  app/templates/_package.browserify.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 23:24:38 +0000     1405 bytes  app/templates/_package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 23:24:38 +0000   135820 bytes  app/templates/app/fonts/Roboto-Bold.ttf</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 23:24:38 +0000   140276 bytes  app/templates/app/fonts/Roboto-Light.ttf</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 23:24:38 +0000   130044 bytes  app/templates/app/fonts/Roboto-Thin.ttf</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 23:24:38 +0000      849 bytes  app/templates/app/icons/own-icons-template.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 23:24:38 +0000      665 bytes  app/templates/app/styles/_fonts.scss</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 23:24:38 +0000       52 bytes  app/templates/app/styles/_variables.scss</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 23:24:38 +0000      168 bytes  app/templates/app/styles/ionic-styles.scss</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 23:24:38 +0000       68 bytes  app/templates/app/styles/layout/layout.scss</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 23:24:38 +0000      297 bytes  app/templates/app/styles/main.scss</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 23:24:38 +0000        0 bytes  app/templates/app/styles/menu/menu.scss</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 23:24:38 +0000       43 bytes  app/templates/app/styles/views/home.scss</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 23:24:38 +0000      945 bytes  app/templates/app/templates/main.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 23:24:38 +0000      715 bytes  app/templates/app/templates/views/settings.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 23:24:38 +0000       38 bytes  app/templates/bower.rc</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 23:24:38 +0000      197 bytes  app/templates/editorconfig</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 23:24:38 +0000      197 bytes  app/templates/gitignore</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 23:24:38 +0000      245 bytes  app/templates/gitignore.browserify</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 23:24:38 +0000      677 bytes  app/templates/helpers/emulateios</tspan>
+<tspan x="10" y="458"> 27.  2017-04-19 23:24:38 +0000      581 bytes  app/templates/home.html</tspan>
+<tspan x="10" y="474"> 28.  2017-04-19 23:24:38 +0000     3018 bytes  app/templates/hooks/README.md</tspan>
+<tspan x="10" y="490"> 29.  2017-04-19 23:24:38 +0000     2735 bytes  app/templates/hooks/after_prepare/010_add_platfo\</tspan>
+<tspan x="10" y="506">rm_class.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-19 23:24:38 +0000    49832 bytes  app/templates/icon.png</tspan>
+<tspan x="10" y="538"> 31.  2017-04-19 23:24:38 +0000      730 bytes  app/templates/index.html</tspan>
+<tspan x="10" y="554"> 32.  2017-04-19 23:24:38 +0000      444 bytes  app/templates/jshintrc</tspan>
+<tspan x="10" y="570"> 33.  2017-04-19 23:24:38 +0000      900 bytes  app/templates/scripts/ApiService.js</tspan>
+<tspan x="10" y="586"> 34.  2017-04-19 23:24:38 +0000     1043 bytes  app/templates/scripts/ExampleService.js</tspan>
+<tspan x="10" y="602"> 35.  2017-04-19 23:24:38 +0000      664 bytes  app/templates/scripts/apiEndpoint.js</tspan>
+<tspan x="10" y="618"> 36.  2017-04-19 23:24:38 +0000     1412 bytes  app/templates/scripts/app.js</tspan>
+<tspan x="10" y="634"> 37.  2017-04-19 23:24:38 +0000      668 bytes  app/templates/scripts/homeController.js</tspan>
+<tspan x="10" y="650"> 38.  2017-04-19 23:24:38 +0000      333 bytes  app/templates/scripts/lodash.js</tspan>
+<tspan x="10" y="666"> 39.  2017-04-19 23:24:38 +0000      260 bytes  app/templates/scripts/mainController.js</tspan>
+<tspan x="10" y="682"> 40.  2017-04-19 23:24:38 +0000      272 bytes  app/templates/scripts/settingsController.js</tspan>
+<tspan x="10" y="698"> 41.  2017-04-19 23:24:38 +0000   299570 bytes  app/templates/splash.png</tspan>
+<tspan x="10" y="714"> 42.  2017-04-19 23:24:38 +0000     2091 bytes  app/templates/src/app.js</tspan>
+<tspan x="10" y="730"> 43.  2017-04-19 23:24:38 +0000      690 bytes  app/templates/src/controllers/homeController.js</tspan>
+<tspan x="10" y="746"> 44.  2017-04-19 23:24:38 +0000      240 bytes  app/templates/src/controllers/mainController.js</tspan>
+<tspan x="10" y="762"> 45.  2017-04-19 23:24:38 +0000      248 bytes  app/templates/src/controllers/settingsController\</tspan>
+<tspan x="10" y="778">.js</tspan>
+<tspan x="10" y="794"> 46.  2017-04-19 23:24:38 +0000      936 bytes  app/templates/src/services/ApiService.js</tspan>
+<tspan x="10" y="810"> 47.  2017-04-19 23:24:38 +0000     1069 bytes  app/templates/src/services/ExampleService.js</tspan>
+<tspan x="10" y="826"> 48.  2017-04-19 23:24:38 +0000     2760 bytes  package.json</tspan>
+</text>
+</svg>
